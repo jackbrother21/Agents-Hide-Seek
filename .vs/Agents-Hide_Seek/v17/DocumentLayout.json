@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|c:\\users\\jacks\\onedrive - unsw\\projects\\unity\\projects\\agents-hide\u0026seek\\assets\\scripts\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\assets\\scripts\\myscenebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\myscenebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\assets\\scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492100F5-5831-077C-BA16-1B8CA997B703}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\Block.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Block.cs",
+              "ToolTip": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\Block.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Block.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAjwE8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:57:19.703Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridManager.cs",
+              "ToolTip": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:04:54.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\AgentController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AgentController.cs",
+              "ToolTip": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\AgentController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AgentController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAnwIIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:22:09.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySceneBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\MySceneBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MySceneBehavior.cs",
+              "ToolTip": "C:\\Users\\jacks\\OneDrive - UNSW\\Projects\\Unity\\Projects\\Agents-Hide\u0026Seek\\Assets\\Scripts\\MySceneBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MySceneBehavior.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T01:32:40.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
